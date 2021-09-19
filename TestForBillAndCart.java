@@ -1,6 +1,7 @@
 /*
  * Test for Bill and Cart
  * Author: Lexi LaMonica
+ * All rights reserved
  */
 package edu.depaul.shoppingapp;
 
