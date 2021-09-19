@@ -1,6 +1,7 @@
 /*
  * Cucumber Step up
  * Author: Lexi LaMonica
+ * All rights reserved
  */
 package edu.depaul.shoppingapp;
 import io.cucumber.junit.Cucumber;
