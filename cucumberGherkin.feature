@@ -1,3 +1,5 @@
+* All rights reserved
+* Lexi LaMonica
 Feature: Shopping App Bill Calculation
   Scenario: Shopper buys an items of price 48.00 in a state that taxes and chooses next day shipping
     Given Shopper buys a total of 48.00
