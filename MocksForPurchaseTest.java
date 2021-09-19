@@ -1,7 +1,8 @@
 /*
  * Mocks for purchaseItem
  * Author: Lexi LaMonica
- */
+ * All rights reserved
+*/
 package edu.depaul.shoppingapp;
 import edu.depaul.se433.shoppingapp.Purchase;
 import edu.depaul.se433.shoppingapp.PurchaseDBO;
