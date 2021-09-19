@@ -1,6 +1,7 @@
 /*
  * Mocks
  * Author: Lexi LaMonica
+ * All rights reserved
  */
 package edu.depaul.shoppingapp;
 import edu.depaul.se433.shoppingapp.*;
