@@ -7,3 +7,4 @@ I provided the following test:
     ― Unit tests using mocks, of the database interface.
     
 As for the coverage that I provided for this project, I am pleased to say that I was able to get 80% for my overall branch coverage. I was able to make 100% for branches on TaxCalculator and TotalCostCalculator. I was able to get to 75% on PuchaseAgent. While, making 50% for ShoppingCart. Therefore, I wasn’t able to test branches on the rest of the elements in the package.
+** All rights reserved **
