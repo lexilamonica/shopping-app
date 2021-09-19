@@ -1,3 +1,5 @@
+// All rights reserved
+// Lexi LaMonica 
 package edu.depaul.shoppingapp;
 import static org.junit.jupiter.api.Assertions.*;
 
